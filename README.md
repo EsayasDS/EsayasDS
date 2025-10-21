@@ -8,21 +8,14 @@
 I’m a passionate **data scientist and machine learning engineer** with a strong foundation in mathematics, statistics, and programming.  
 I specialize in developing **intelligent systems** that transform complex data into meaningful insights and real-world solutions.
 
-**Expertise includes:**
-- Machine Learning & Deep Learning (core algorithms and architectures)  
-- Artificial Intelligence & Predictive Modeling  
-- Big Data Analysis & Data Visualization  
-- Mathematical Modeling & Statistical Analysis  
-- Data Structures & Algorithms (DSA)
-
-I love exploring the intersection of **AI, data, and innovation** — building models and dashboards that empower better decisions.
+I love exploring the intersection of AI, data, and innovation — building models and dashboards that empower better decisions.
 
 ---
 
 ### 🛠️ Skills
 
 **Programming & Tools:**  
-Python · R · SQL · Git · VS Code  
+Python · R · SQL · Git · VS Code ,jupyter notebook
 
 **Machine Learning, Deep Learning & AI:**  
 Scikit-learn · TensorFlow · Keras  
@@ -63,4 +56,5 @@ I enjoy blending **mathematical reasoning, machine learning, and AI** to tackle 
 
 ![Eso's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
