@@ -37,7 +37,7 @@ Statistics · Linear Algebra · Probability · Regression
 - Built an **interactive Dash web app** to predict Total Electron Content (vTEC) in Addis Ababa.  
 - Applied both **machine learning and deep learning** models for high-accuracy predictions.  
 - Designed dynamic **visual dashboards** for better insight and decision-making.  
-- [🔗 View Project Repository](https://github.com/yourusername/vtec-dashboard) <!-- Replace with your actual repo link -->
+- [🔗 View Project Repository](https://github.com/EsayasDS/vtec-dashboard) 
 
 ---
 
@@ -45,7 +45,7 @@ Statistics · Linear Algebra · Probability · Regression
 
 📫 **Email:** [esayasmelaku390@gmail.com](mailto:esayasmelaku390@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/esayas-melaku-552788353](https://www.linkedin.com/in/esayas-melaku-552788353)  
-🧠 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+🧠 **GitHub:** [github.com/yourusername](https://github.com/EsayasDS)
 
 ---
 
@@ -56,5 +56,6 @@ I enjoy blending **mathematical reasoning, machine learning, and AI** to tackle 
 
 ![Eso's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 
