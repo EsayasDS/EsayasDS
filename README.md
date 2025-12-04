@@ -68,3 +68,6 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 <p align="center">I enjoy blending mathematical reasoning, machine learning, and AI to tackle complex challenges — turning data into intelligent, real-world solutions.!</p>
 
  
+
+## ?? My Coding Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=EsayasDS&theme=dark)
