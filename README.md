@@ -50,12 +50,11 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight&hide_rank=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=EsayasDS&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night)
-
 ## 🌐 Connect With Me
 
 - **📫 Email:** [esayasmelaku390@gmail.com](mailto:esayasmelaku390@gmail.com)
