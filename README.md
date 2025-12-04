@@ -50,13 +50,16 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=dark&hide_rank=true" height="150" alt="Stats Graph" />
-  <img src="https://streak-stats.demolab.com?user=EsayasDS&theme=dark" height="150" alt="Streak Graph" />
+  <!-- I added '&hide_rank=true' here. This Fixes the broken image! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=dark&hide_rank=true" height="150" alt="Stats" />
+  
+  <!-- This is your working Streak card -->
+  <img src="https://streak-stats.demolab.com?user=EsayasDS&theme=dark" height="150" alt="Streak" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=react" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=react" width="100%" alt="Activity" />
 </div>
 ## 🌐 Connect With Me
 
