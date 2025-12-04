@@ -12,7 +12,7 @@ I love exploring the intersection of AI, data, and innovation — building model
 🛠️ Skills
 
 Programming & Tools:
-Python · R · SQL · Git · VS Code · Jupyter Notebook
+Python · R · SQL · Git · VS Code · Jupyter Notebook.
 
 Machine Learning, Deep Learning & AI:
 Scikit-learn · TensorFlow · Keras
@@ -29,7 +29,7 @@ Statistics · Linear Algebra · Probability · Regression
 💼 Projects
 🌍 vTEC Prediction Model & Interactive Dashboard
 
-Built an interactive Dash web app to predict Total Electron Content (vTEC) in Addis Ababa.
+Built an interactive Dashboard to predict Total Electron Content (vTEC) in Addis Ababa.
 
 Applied both machine learning and deep learning models for high-accuracy predictions.
 
@@ -37,7 +37,15 @@ Designed dynamic visual dashboards for better insight and decision-making.
 
 🔗 View Project Repository
 
-📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EsayasDS&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night)
+
 
 🌐 Connect With Me
 
@@ -50,3 +58,4 @@ Designed dynamic visual dashboards for better insight and decision-making.
 ⚡ Fun Fact
 
 I enjoy blending mathematical reasoning, machine learning, and AI to tackle complex challenges — turning data into intelligent, real-world solutions.
+
