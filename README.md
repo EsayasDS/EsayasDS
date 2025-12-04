@@ -47,14 +47,17 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 [🔗 View Project Repository](https://github.com/EsayasDS?tab=repositories)
 
 <br>
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight&hide_rank=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=dark&hide_rank=true" height="150" alt="Stats Graph" />
+  <img src="https://streak-stats.demolab.com?user=EsayasDS&theme=dark" height="150" alt="Streak Graph" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EsayasDS&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night)
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=react" width="100%" alt="Activity Graph" />
+</div>
 ## 🌐 Connect With Me
 
 - **📫 Email:** [esayasmelaku390@gmail.com](mailto:esayasmelaku390@gmail.com)
