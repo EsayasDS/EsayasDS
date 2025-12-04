@@ -50,17 +50,11 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=EsayasDS&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight)
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night" width="100%" alt="Activity Graph" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=EsayasDS&theme=tokyonight)
 
-<br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night)
 
 ## 🌐 Connect With Me
 
@@ -74,3 +68,4 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">I enjoy blending mathematical reasoning, machine learning, and AI to tackle complex challenges — turning data into intelligent, real-world solutions.</p>
+
