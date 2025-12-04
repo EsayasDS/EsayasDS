@@ -67,3 +67,4 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">I enjoy blending mathematical reasoning, machine learning, and AI to tackle complex challenges — turning data into intelligent, real-world solutions.!</p>
 
+ 
