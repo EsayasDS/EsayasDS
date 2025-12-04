@@ -1,61 +1,76 @@
-Hi, I’m Esayas (ESO)
+<h1 align="center">Hi, I’m Esayas (ESO) 👋</h1>
 
-Data Scientist | Machine Learning & Deep Learning Engineer | AI Enthusiast
+<h3 align="center">Data Scientist | Machine Learning & Deep Learning Engineer | AI Enthusiast</h3>
 
-🔭 About Me
+<br>
 
-I’m a passionate data scientist and machine learning engineer with a solid foundation in mathematics, statistics, and programming.
-I enjoy building intelligent systems that turn raw data into practical insights and useful solutions.
+## 🔭 About Me
 
-I love exploring the intersection of AI, data, and innovation — building models, dashboards, and tools that support real decision-making.
+I’m a passionate **Data Scientist** and **Machine Learning Engineer** with a solid foundation in mathematics, statistics, and programming. I enjoy building intelligent systems that turn raw data into practical insights and useful solutions.
 
-🛠️ Skills
+I love exploring the intersection of **AI, Data, and Innovation** — building models, dashboards, and tools that support real decision-making.
 
-Programming & Tools:
-Python · R · SQL · Git · VS Code · Jupyter Notebook.
+<br>
 
-Machine Learning, Deep Learning & AI:
-Scikit-learn · TensorFlow · Keras
+## 🛠️ Skills
 
-Data Visualization:
-Dash · Plotly · Matplotlib · Seaborn
+**Programming & Tools:**
+<br>
+`Python` `R` `SQL` `Git` `VS Code` `Jupyter Notebook`
 
-Big Data & Analytics:
-Pandas · NumPy · Feature Engineering · Data Cleaning
+**Machine Learning, Deep Learning & AI:**
+<br>
+`Scikit-learn` `TensorFlow` `Keras`
 
-Mathematics:
-Statistics · Linear Algebra · Probability · Regression
+**Data Visualization:**
+<br>
+`Dash` `Plotly` `Matplotlib` `Seaborn`
 
-💼 Projects
-🌍 vTEC Prediction Model & Interactive Dashboard
+**Big Data & Analytics:**
+<br>
+`Pandas` `NumPy` `Feature Engineering` `Data Cleaning`
 
-Built an interactive Dashboard to predict Total Electron Content (vTEC) in Addis Ababa.
+**Mathematics:**
+<br>
+`Statistics` `Linear Algebra` `Probability` `Regression`
 
-Applied both machine learning and deep learning models for high-accuracy predictions.
+<br>
 
-Designed dynamic visual dashboards for better insight and decision-making.
+## 💼 Projects
 
-🔗 View Project Repository
+### 🌍 vTEC Prediction Model & Interactive Dashboard
 
+- Built an interactive **Dashboard** to predict Total Electron Content (vTEC) in Addis Ababa.
+- Applied both **machine learning** and **deep learning** models for high-accuracy predictions.
+- Designed dynamic visual dashboards for better insight and decision-making.
+
+[🔗 View Project Repository](https://github.com/EsayasDS?tab=repositories)
+
+<br>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsayasDS&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=EsayasDS&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EsayasDS&theme=tokyonight)
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night" width="100%" alt="Activity Graph" />
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EsayasDS&theme=tokyo-night)
+<br>
 
+## 🌐 Connect With Me
 
-🌐 Connect With Me
+- **📫 Email:** [esayasmelaku390@gmail.com](mailto:esayasmelaku390@gmail.com)
+- **💼 LinkedIn:** [linkedin.com/in/esayas-melaku](https://www.linkedin.com/in/esayas-melaku-552788353)
+- **🧠 GitHub:** [github.com/EsayasDS](https://github.com/EsayasDS)
 
-📫 Email: esayasmelaku390@gmail.com
+<br>
 
-💼 LinkedIn: linkedin.com/in/esayas-melaku-552788353
+---
 
-🧠 GitHub: github.com/EsayasDS
-
-⚡ Fun Fact
-
-I enjoy blending mathematical reasoning, machine learning, and AI to tackle complex challenges — turning data into intelligent, real-world solutions.
-
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">I enjoy blending mathematical reasoning, machine learning, and AI to tackle complex challenges — turning data into intelligent, real-world solutions.</p>
