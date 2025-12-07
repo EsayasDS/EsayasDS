@@ -69,5 +69,4 @@ I love exploring the intersection of **AI, Data, and Innovation** — building m
 
  
 
-## ?? My Coding Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=EsayasDS&theme=dark)
+
